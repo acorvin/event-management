@@ -1,6 +1,14 @@
-# Event Management App ** In Progress **
+# Event Management App
 
-Building a REST API to handle an event management application. The API will offer user registration and authentication functionalities, enabling users to securely sign in. Once authenticated, users can easily manage their events, schedule tasks, and receive essential email notifications.
+A REST API to handle an event management application. The API will offer the ability to create, update, and delete events based on user authentication. Once authenticated, users can easily manage their events, schedule tasks, and also receive essential email notification on upcoming.
+
+## Features
+
+-   User Registration: Create new user accounts.
+-   User Authentication: Securely authenticate users for access to their account.
+-   Event Management: Enable users to manage their events efficiently.
+-   Task Scheduling: Schedule tasks related to events.
+-   Email Notifications: Send essential email notifications to users.
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
