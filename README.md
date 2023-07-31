@@ -1,6 +1,6 @@
-# Event Management App
+# Event Management System
 
-A REST API to handle an event management application. The API will offer the ability to create, update, and delete events based on user authentication. Once authenticated, users can easily manage their events, schedule tasks, and also receive essential email notification on upcoming.
+A REST API to handle an event management application. The API will offer the ability to create, update, and delete events based on user authentication. Once authenticated, users can easily manage their events, schedule tasks, and also receive essential email notification on upcoming events.
 
 ## Features
 
